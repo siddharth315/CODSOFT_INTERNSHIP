@@ -1,5 +1,4 @@
 # TASK-1) CALCULATOR --->
-
 import tkinter as tk
 
 def press(num):
