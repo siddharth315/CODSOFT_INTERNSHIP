@@ -1,4 +1,4 @@
-# TASK-3) ROCK-PAPER-SCISSORS GAME --->
+# TASK-4) ROCK-PAPER-SCISSORS GAME --->
 import tkinter as tk
 from tkinter import messagebox
 import random
