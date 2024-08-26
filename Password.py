@@ -1,4 +1,4 @@
-# TASK-2) PASSWORD GENERATOR --->
+# TASK-3) PASSWORD GENERATOR --->
 import random
 from tkinter import *
 
