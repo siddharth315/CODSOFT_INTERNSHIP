@@ -1,4 +1,4 @@
-# TASK-1) CALCULATOR --->
+# TASK-2) CALCULATOR --->
 import tkinter as tk
 
 def press(num):
